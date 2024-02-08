@@ -2,7 +2,7 @@
 
 This text material about free open source software from an industrial perspective has been produced in collaboration between the four industry partners ABB, Ericsson, Saab and Volvo group and the university partner KTH (Royal Institute of Technology) within the projects of Integrated Learning during 2021-2023. 
 
-The material is stored and maintained in GitHub, and available to learners via Learnify e-learning player. In future this learning journey will be transfered to [ExpertLearningLab](https://github.com/ExpertLearningLab) with is planned to be a long-term collaboration between industry and academia. Both Integrated learning projects and Expert Learning Lab are financed by Vinnova and the Advanced Digitalization program.
+The material is stored and maintained in GitHub, and available to learners via Learnify e-learning player. In future this learning journey will be transferred to [ExpertLearningLab](https://github.com/ExpertLearningLab) with is planned to be a long-term collaboration between industry and academia. Both Integrated learning projects and Expert Learning Lab are financed by Vinnova and the Advanced Digitalization program.
 
 ## Collaboration:
 Please take a look at our contributing guidelines if you're interested in helping!
