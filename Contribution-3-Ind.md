@@ -3,7 +3,7 @@ layout: default
 title: Open Source Contributions
 nav_order: 2
 has_children: true
-permalink: /Contributions-3-Ind
+permalink: /Contribution-3-Ind
 ---
 
 
