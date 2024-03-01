@@ -76,7 +76,7 @@ Despite the aforementioned diversity among open source projects, developers with
 
  ![image](https://github.com/ExpertLearningLab/foss-learning/assets/126161450/48f6b5b9-3713-4549-b087-bf87dc74f13d)
 
-Hierarchy of roles in an open source project.
+_Hierarchy of roles in an open source project._
 
 These roles in fact exhibit a hierarchical structure as shown in Figure 1 and can be categorized as follows from bottom to top:
 
