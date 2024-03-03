@@ -3,7 +3,7 @@ layout: default
 title: Open Source Contributions
 nav_order: 2
 has_children: true
-permalink: /Contributions-1-4-Ind
+permalink: /Contributions-1-5-Ind
 ---
 
 ## Developer Roles
