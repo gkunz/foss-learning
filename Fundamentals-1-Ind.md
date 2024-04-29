@@ -83,3 +83,4 @@ GitHub along with GitLab, Bitbucket, Gitea and Google Developers are platforms p
 GitHub along with GitLab, Bitbucket, Gitea and Google Developers are platforms providing such repository service to open source projects. Platforms like these also provide metrics such as number of commits, stars and forks which can help in determining the activity and popularity of a project as illustrated by the examples of Te2zos and MongoDB:
 
 ![activity-popularity](./img/activity-popularity.png)
+
